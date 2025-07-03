@@ -1,0 +1,30 @@
+
+**User Persona 1: Job Seeker – Jan**
+- **Profile:** Jan is a 35-year-old single mom with two children. She’s applied to over 100 jobs in the past three months, often receiving no replies. 
+- **Pain Points:** She can’t tell which postings are real, wastes time on ghost jobs, and has no insight into employer quality.
+- **Needs:** Verified job posts, trusted feedback, faster application outcomes.
+- **Benefit from TJAP:** A platform with reviews helps her avoid scams and ghost posts, regaining control in her job search.
+
+**User Persona 2: Small Business Employer – Local Daycare Director**
+- **Profile:** A daycare owner hiring for $10/hour roles with high turnover. She pays $50/day to sponsor job posts on Indeed to stay visible.
+- **Pain Points:** Constant churn, expensive visibility, and applicants ghosting.
+- **Needs:** Better candidate matches, credible job post exposure without overspending.
+- **Benefit from TJAP:** Affordable, community-validated listings that help her stand out with serious applicants.
+
+**User Persona 3: Municipality – Town of 25,000**
+- **Profile:** A city council representative hears citizen complaints about hiring. Small businesses are struggling, and unemployment is high despite open roles.
+- **Pain Points:** Mismatch between job seeker perceptions and real openings; lack of trust in listings.
+- **Needs:** Demonstrable action on workforce issues; tools to support local hiring ecosystems.
+- **Benefit from TJAP:** Collaborates with Chamber of Commerce to elevate job quality, validate job ads, and bring transparency to the local hiring market.
+
+**User Persona 4: Career Coach**
+- **Profile:** A niche career coach who helps people transition industries or find their voice after 50+ failed applications.
+- **Pain Points:** Clients don’t know where to apply or trust the system; success metrics are murky.
+- **Needs:** Reliable market data, tools to steer clients toward real, quality jobs.
+- **Benefit from TJAP:** Reputation scores and feedback help the coach guide clients to vetted opportunities.
+
+**User Persona 5: Online Recruiting Company**
+- **Profile:** A job board/startup recruitment site wants to ensure users only apply to quality roles.
+- **Pain Points:** Skepticism from users, lack of differentiation from spammy boards.
+- **Needs:** External validation and assurance to job seekers.
+- **Benefit from TJAP:** Integrates TJAP API to display ratings on job posts, boosting platform credibility and application rates.
